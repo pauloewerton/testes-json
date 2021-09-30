@@ -1,0 +1,93 @@
+{
+	"discos": [{
+			"artista": "The Beatles",
+			"titulo": "Abbey Road",
+			"ano": 1968,
+			"capa": "https://www.udiscovermusic.com/wp-content/uploads/2017/08/Abbey-Road.jpg"
+		},
+		{
+			"artista": "Wos",
+			"titulo": "Caravana",
+			"ano": 2019,
+			"capa": "https://indiehoy.com/wp-content/uploads/2019/10/wos-caravana-1200x1200.jpg"
+		},
+		{
+			"artista": "The Rolling Stones",
+			"titulo": "Flashpoint",
+			"ano": 1991,
+			"capa": "https://stonesplanetbrazil.com/wp-content/uploads/2017/01/flash.jpg"
+		},
+		{
+			"artista": "Collective Soul",
+			"titulo": "Live",
+			"ano": 2017,
+			"capa": "https://direct.rhapsody.com/imageserver/images/alb.281495204/500x500.jpg"
+		},
+		{
+			"artista": "Pearl Jam",
+			"titulo": "Ten",
+			"ano": 1991,
+			"capa": "https://img.cdandlp.com/2017/10/imgL/118972369.jpg"
+		},
+		{
+			"artista": "Greta Van Fleet",
+			"titulo": "The Battle at Garden's Gate",
+			"ano": 2021,
+			"capa": "https://conurbanblogger.files.wordpress.com/2021/04/descarga-1.jpg?w=640"
+		},
+		{
+			"artista": "Greta Van Fleet",
+			"titulo": "The Battle at Garden's Gate",
+			"ano": 2021,
+			"capa": "https://conurbanblogger.files.wordpress.com/2021/04/descarga-1.jpg?w=640"
+		},
+		{
+			"artista": "Lorde",
+			"titulo": "Melodrama",
+			"ano": 2017,
+			"capa": "https://plus.cusica.com/wp-content/uploads/2017/12/Lorde-Melodrama.jpg"
+		},
+		{
+			"artista": "The Strokes",
+			"titulo": "The New Abnormal",
+			"ano": 2020,
+			"capa": "https://laciclotimia.com/wp-content/uploads/2021/01/The-Strokes-The-New-Abnormal.jpg"
+		},
+		{
+			"artista": "Pearl Jam",
+			"titulo": "Lightning Bolt",
+			"ano": 2013,
+			"capa": "https://www.humonegro.com/wp-content/PEARL-JAM-LIGHTNING-BOLT-BG.png"
+		},
+		{
+			"artista": "Queen",
+			"titulo": "A Night at the Opera",
+			"ano": 1975,
+			"capa": "https://www.elquintobeatle.com/wp-content/uploads/2015/12/queen-a-night-at-the-opera-1.jpg"
+		},
+		{
+			"artista": "Arcade Fire",
+			"titulo": "Everything Now",
+			"ano": 2017,
+			"capa": "http://images.coveralia.com/audio/a/Arcade_Fire-Everything_Now-Frontal.jpg"
+		},
+		{
+			"artista": "AC/DC",
+			"titulo": "AC/DC Live",
+			"ano": 1992,
+			"capa": "https://upload.wikimedia.org/wikipedia/en/1/18/ACDCLive_ACDCalbum.jpg"
+		},
+		{
+			"artista": "U2",
+			"titulo": "How to Dismantle an Atomic Bomb",
+			"ano": 2004,
+			"capa": "https://lastfm.freetls.fastly.net/i/u/500x500/1a6b0b6a3ee04799c77b90db9d6ec86f.jpg"
+		},
+		{
+			"artista": "Dua Lipa",
+			"titulo": "Future Nostalgia",
+			"ano": 2020,
+			"capa": "https://images-na.ssl-images-amazon.com/images/I/71KcaBR6hPL._SL1200_.jpg"
+		}
+	]
+}
